@@ -34,5 +34,7 @@
 [url "git://gist.github.com/"]
 	insteadOf = "gist:"
 [user]
-	name = Mark Bradley
-	email = barkmadley@gmail.com
+	name = Carson Baker
+	email = carson@carsonbaker.org
+[push]
+  	default = tracking
