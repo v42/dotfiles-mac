@@ -34,7 +34,7 @@
 [url "git://gist.github.com/"]
 	insteadOf = "gist:"
 [user]
-	name = Carson Baker
-	email = carson@carsonbaker.org
+	name = Jean Carlo Emer
+	email = jeancarloemer@gmail.com
 [push]
   	default = tracking
