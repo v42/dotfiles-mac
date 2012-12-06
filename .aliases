@@ -36,7 +36,7 @@ alias c="tr -d '\n' | pbcopy"
 alias d="cd ~/Dropbox"
 alias p="cd ~/Projects"
 alias g="git"
-alias v="vim"
+alias s="subl"
 alias m="mate ."
 
 # File size
