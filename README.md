@@ -1,4 +1,4 @@
-# Jcemer dotfiles
+# Dotfiles and more
 
 ![screenshot](https://raw.github.com/jcemer/dotfiles-mac/master/screenshot.png)
 
@@ -8,7 +8,13 @@
 git clone https://github.com/jcemer/dotfiles-mac.git && cd dotfiles-mac && ./bootstrap.sh
 ```
 
-Check the original project for more info https://github.com/barkmadley/dotfiles-mac
+See the original project for more info: https://github.com/barkmadley/dotfiles-mac
+
+## Tomorrow Theme
+
+Theme loosely based on [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme). The main change is to use `Droid Sans Mono 15 pt.` as font.
+
+Run `tomorrow.terminal` and set it as your default profile.
 
 ## Sublime Text 2
 
