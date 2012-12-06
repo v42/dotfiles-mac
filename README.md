@@ -1,4 +1,6 @@
-# jcemer dotfiles
+# Jcemer dotfiles
+
+![screenshot](https://raw.github.com/jcemer/dotfiles-mac/master/screenshot.png)
 
 ## Installation
 
