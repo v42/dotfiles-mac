@@ -35,8 +35,8 @@
 [url "git://gist.github.com/"]
 	insteadOf = "gist:"
 [user]
-	name = Jean Carlo Emer
-	email = jeancarloemer@gmail.com
+	name = YOUR NAME HERE
+	email = YOUR MAIL HERE
 [push]
 	default = tracking
 [alias]

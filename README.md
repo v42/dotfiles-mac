@@ -4,8 +4,15 @@
 
 ## Installation
 
+
 ```bash
-git clone https://github.com/jcemer/dotfiles-mac.git && cd dotfiles-mac && ./bootstrap.sh
+git clone https://github.com/jcemer/dotfiles-mac.git
+```
+
+Then, edit `.gitconfig` with your `[user]` info. After that...
+
+```bash
+./bootstrap.sh
 ```
 
 See the original project for more info: https://github.com/barkmadley/dotfiles-mac
